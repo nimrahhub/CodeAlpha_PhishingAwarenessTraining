@@ -49,7 +49,7 @@ This project is a **Phishing Awareness Training Module** designed to educate use
 
 ## 🎥 Project Demo
 
-👉 Video Explanation: *(Add your LinkedIn video link here)*
+👉 Video Explanation: *https://www.linkedin.com/posts/nimrah-shafiq-b965342b2_codealpha-cybersecurity-phishingawareness-activity-7471213884432109568-umrE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEsvcKIBehepy2P3eckC3gNupmiAcVjVRLw*
 
 ---
 
