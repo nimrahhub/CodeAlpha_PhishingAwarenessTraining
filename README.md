@@ -76,8 +76,7 @@ Thanks to **CodeAlpha** for this opportunity to learn and build practical cybers
 
 ## 🔗 Connect With Me
 
-* LinkedIn: *(Add your profile link)*
-* GitHub: *(Your GitHub link)*
+* LinkedIn: *www.linkedin.com/in/nimrah-shafiq-b965342b2*
 
 ---
 
